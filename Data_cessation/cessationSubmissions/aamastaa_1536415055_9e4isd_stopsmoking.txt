@@ -1,2 +1,0 @@
-I made a push notification feed (desktop/mobile) for posts of r/stopsmoking that have a minimum of 50 Karma.
-

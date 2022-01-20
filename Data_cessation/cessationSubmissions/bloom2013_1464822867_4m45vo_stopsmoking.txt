@@ -1,2 +1,0 @@
-My app made a graph of my number of cravings per day
-

@@ -1,3 +1,0 @@
-App that keeps track of cigs with something like a line graph?
-
-I have a popular quit smoking app but instead of just changing my quit date I'd like something more like the calorie-counting apps so I can really see my progress. Any suggestions?

@@ -1,3 +1,0 @@
-Smoke Free app
-
-I gave it a shot and it worked amazing. I entered in the amount I smoked per day, how much came in a pack, and the price. And it calculates from the minute you decide to not smoke anymore, and keeps adding to the amount of time passed since, the amount of money you're saving, how many smokes you have sinced not smoked and the amount of life in hours that you have regained. Plus it shows your yearly expenditure based on the information you enter. I've always wondered why I could never afford a car. Or my trip to Europe. Now I know why and now it's more motivation to continue to not smoke! That and the whole living longer thing :P But it helped me and I'm sure it could help someone else who just needs it to be put into perspective too.

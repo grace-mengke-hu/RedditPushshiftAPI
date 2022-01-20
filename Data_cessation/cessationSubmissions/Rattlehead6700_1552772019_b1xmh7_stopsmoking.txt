@@ -1,3 +1,0 @@
-badge forever stuck
-
-Stuck at 500 days, even if I remove it odd

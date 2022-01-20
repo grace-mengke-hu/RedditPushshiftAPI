@@ -1,7 +1,0 @@
-Just made an app that tells me how much money i saved since i quit smoking.
-
-So, i know that there are a ton of apps out there that do that and more. But i just wanted a simple one that tracks my savings in smoke money.
-It helps me keep motivated. 
-Hope it helps you too.
-
-https://play.google.com/store/apps/details?id=com.smokemoney

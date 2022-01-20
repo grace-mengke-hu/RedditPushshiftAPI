@@ -1,5 +1,0 @@
-Smoking apps that allow for a change in the price of a pack?
-
-So, I don't know about you but where I live cigarette prices increase at least once a year, and usually even more often than that. I am using Cessation Nation for Android and it's working great, but I can't set the new price of smokes without messing with the past data. Do you know any apps that let you change the price of the pack in a way that it only changes *future* data?
-
-I know this may be too much to ask but I'd like to keep my statistics accurate. How do you do it?

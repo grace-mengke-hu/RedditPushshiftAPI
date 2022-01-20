@@ -1,9 +1,0 @@
-Quit smoking app with Apple Watch complication support?
-
-Hi,
-
-does anyone knows of a quit smoking support app which also has a Apple Watch complication which I can add to my face?
-
-Tried smokefree, it does have an app on watch but it doesn't support complication.
-
-Thanks 

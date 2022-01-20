@@ -1,3 +1,0 @@
-If (willpower==0) { days_no_smoke=0}
-
-Well back to square one, i promise i'll try harder. 

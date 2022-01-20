@@ -1,7 +1,0 @@
-For those of you who need motivation: I'm an MD and I've developed a free mobile app called 'Cancer Risk Calculator', to allow my patients to calculate their personal risk of cancer based their risk factors, which includes smoking. Give it a try!
-
-I'm a radiation oncologist, so I obviously get many questions about all aspects of cancer. I found that many patients were particularly concerned about the exact causes of their cancer and wondered whether the same causes could provoke the development of another cancer or could provoke a similar cancer for the people around them. So I decided to create an app to adress those concerns!
-
-The aim of the application I have developed is estimating the risk of cancer for any individual based on all the risk factors that can be found in the scientific literature. It includes 250 different risk factors and can calculate the risk for 26 different cancers. It also gives you a breakdown of each of those risks by showing you all the risk factors influencing it (both positive and negative) with detailed figures, possible lifestyle changes one could make and references. It is completely free and does not transmit any information to us or any other party.
-
-The app is called 'Cancer Risk Calculator' and is available for both Android and Apple devices. If any of you would like to see the effects of your risk factors on your risk of cancer, please feel free to try it out!

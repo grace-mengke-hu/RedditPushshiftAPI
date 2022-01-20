@@ -1,7 +1,0 @@
-App Suggestion?
-
-I quit smoking a few years ago, but replaced it with snus. I'm now trying to kick nicotine completely and was thinking it would be nice and helpful if there was a simple app to track usage. Most the apps I see are all about quitting completely and showing how much time/money since you quite, but I am looking for a simple app to track my usage so I can try to increase the average gap.
-
-With smoking I was more addicted to the habit of smoking and the association of what I linked smoking to. With snus that is also true, but I think I have a stronger addiction the nicotine than before, so my thinking is if I can slowly ween myself off and track improvements, it could be a good plan. 
-
-Ideally, I'd like to see an app that shows a daily count, time since last and avg daily span. Right now I'm just using a simple counter tool that will track qty until reset and time since last.

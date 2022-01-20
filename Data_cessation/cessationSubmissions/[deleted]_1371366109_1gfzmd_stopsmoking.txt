@@ -1,5 +1,0 @@
-Idea: redditors with equal # of days since last cig appear somehow in a list so you can communicate with them. Can be optional to appear in said list, yourself.
-
-I am not very good at supporting my ideas :( so i can't think of much
-
-I mean, i have quit for 18 days and i thought it would be cool if there was a tickbox somewhere and i could opt-in to "appear in the list". So if someone else has opted-in *and* they have quit for the same number of days (+-1 perhaps?) as well, we can see each other in the list so we can communicate, etc.

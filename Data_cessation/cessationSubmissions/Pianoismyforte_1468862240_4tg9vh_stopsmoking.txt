@@ -1,9 +1,0 @@
-Accountability and support group opportunity
-
-Accountability can be a powerful tool to help people stick with their goals. To that end, I’m starting a group for quitting smoking that focuses on defining goals and holding each other accountable.
-
-This group would exist on TaskHero, a todo/habit building website that maps your real-life progress on a game (full disclosure, I am a developer of the site). The website has a shared ‘quest’ feature that lets multiple people define their own tasks and share them to the quest group (ex: ‘smoke 1 less cigarette every day’, or ‘don’t smoke a single cigarette today’). 
-
-Through this quest feature, if enough people complete their tasks, everyone gets a reward at the end of the day. If enough people miss their todos, the quest will fail, keeping everyone from getting the reward. This system lets people keep track of each other’s progress, comment with encouragement, and poke to remind anyone who might be lagging on their tasks.
-
-If you would be interested in this group, either comment or PM me, and I’ll send you an invitation to the private beta and get you set up.

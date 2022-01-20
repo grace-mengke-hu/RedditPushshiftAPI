@@ -1,3 +1,0 @@
-App that shows my progress in days that I can display in my home screen (widget)
-
-Basically the title

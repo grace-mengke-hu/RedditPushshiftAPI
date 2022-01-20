@@ -1,9 +1,0 @@
-Would you use this (hypothetically) to quit smoking?
-
-I'm working on a project for school with a friend that has to incorporate new technologies. We found this thing that can analyze air quality and came up with an idea to use it to hopefully help people quit smoking.(http://www.mytzoa.com/#homepage)
-
-Our idea is that you would buy this air quality gauge (or it could hypothetically be in a smart phone) and it would be able to tell when you're smoking and automatically lock down your phone so you can't use it.
-
-Is this something that you could see yourself using to quit? We were thinking that using peoples' addiction to their phones to help quit their smoking addiction. We're concerned however, that it's a bad idea because people wouldn't want to be punished while using it and would just find ways to cheat the system.
-
-Any sort of insight or feedback would be much appreciated.

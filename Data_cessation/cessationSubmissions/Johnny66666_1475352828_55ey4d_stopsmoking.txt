@@ -1,2 +1,0 @@
-Writing a very basic Python program to help with my smoking stats.
-

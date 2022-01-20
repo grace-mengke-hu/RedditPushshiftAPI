@@ -1,5 +1,0 @@
-Any android app that counts cigarettes?
-
-I'm looking for an app that counts cigarettes not smoked from value each day. Like if I smoked 5 a day and want to cut back to 2 it will count -3 and compound it over the days for a large number (hopefully) in the negative which would give me good statistics on how much money saved if i were to not of tried to cut back at all. 
-
-It's a pretty simple function and i could do it myself with a pen and paper but was just wondering if there was something easier out there that wasnt a typical app that just has a start button or counts single cigarettes. cheers.

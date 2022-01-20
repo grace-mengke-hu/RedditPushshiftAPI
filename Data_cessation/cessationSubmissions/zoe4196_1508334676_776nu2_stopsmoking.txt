@@ -1,2 +1,0 @@
-How do you get the # of days since quit next to your name?
-
