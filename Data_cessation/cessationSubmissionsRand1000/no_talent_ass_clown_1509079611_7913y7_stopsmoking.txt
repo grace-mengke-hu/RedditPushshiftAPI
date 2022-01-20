@@ -1,3 +1,0 @@
-The wagon stopped when you fell off. If you want to jump back on, it's waiting for you!
-
-- a friend.

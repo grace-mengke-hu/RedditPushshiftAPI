@@ -1,2 +1,0 @@
-Android Countdown Widget. Simple Countdown (and Up). All I need to count progress.
-
