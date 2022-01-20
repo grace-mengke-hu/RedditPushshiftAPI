@@ -1,0 +1,15 @@
+Help with an idea: Stop smoking with a smart device that decreases nicotine vapor over time
+
+Hi guys,
+
+I'm an engineer, and having lost both my grandparents to smoking, I've always thought about ideas that help people quit smoking. Although I'm not a smoker, MANY of my friends smoke regularly.
+
+I am considering building a prototype that would 
+
+- Track the amount of nicotine you are ingesting
+
+- Decrease nicotine dispersal over time based on your addiction
+
+- Sync with your iPhone/Android device to give you a sense of where you are, and how you feel.
+
+What would this be worth to you guys? I was considering doing a Kickstarter a while back. It probably wouldn't be that cheap to make, but I do have some ideas. 

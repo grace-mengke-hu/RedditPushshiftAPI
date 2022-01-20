@@ -1,0 +1,8 @@
+It may be wishful thinking, but these could be a cool features...
+
+Wouldn't it be awesome to get more statistics based on the badgebot? Things I would personally like to see are:
+
+1) Quitting buddies. Users who share the same quit date +/- 5 days.
+2) Filter posts to see when they were created based on the badge age. (e.g. Posts created when users are 3 months quitters).
+
+Are there any other cool features that you'd like to see although they may never be see the light of day?

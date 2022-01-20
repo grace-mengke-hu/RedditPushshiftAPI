@@ -1,0 +1,15 @@
+The Smoke Free app needs your help
+
+We're looking to test a new feature of the app that allows you to create an account with Facebook, Google or your email address and use that to restore your data. It's a feature lots of people who change/lose phones have requested because they want to keep their progress but don't have a backup of their phone.
+
+Before we make this available to everyone we want to check that it works fully. It works for us, but there's only so much testing we can do.
+
+If you're interested and have an iPhone please sign up for testing here: https://smokefreebeta.herokuapp.com/
+
+If you're on Android please email testers@smokefreeapp.com
+
+Please note, there is a chance that the restore won't work for you. So please make a backup of your phone first as restoring that will bring back any data our custom restore fails to.
+
+Here to answer any questions you have about this.
+
+Thank you.

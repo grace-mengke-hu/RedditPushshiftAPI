@@ -1,0 +1,6 @@
+# CheckingMissingData PROJECT
+As Pushshift.io Reddit API sometimes failed to update the deleted sumission and comments, this project is to compare and check the two Reddit datasets from the same time period and the same subreddit but collected at the different time. 
+- **checkMissingData.py** is to compare the two Reddit datasets from same subreddit and same time frame but collected from different time. For example, *old/coronavirusus_Jan2April_2020.json* and *new/coronavirusus_Jan2April_2020.json* are both from the subreddit *r/coronavirusus* and are all contains Reddit data from January to April 2020, but are collected at July 2020 and October 2020 respectively. The script will output how much data that appear in the old data but not in the new data and vice versa.
+- **compare_fun.py** contains collections of functions to compare two data set. This script is to support **checkMissingData.py**.
+- **mergeData.py** is to merge two dataset and form a combined dataset. It is to generate a more completed dataset.
+- **JsonElementFieldChecking.py** is to list all the fields of submission and related comments in the json data.

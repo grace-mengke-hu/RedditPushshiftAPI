@@ -1,0 +1,3 @@
+Does gradually decreasing the amount of cigarettes per day help quit them...?
+
+..or the only way is to just stop smoking at all? I've been telling myself for a long time that I have to quit them, because it won't get easier, but just stopping them might affect my performance at work, because I'm a developer and thinking about cigarettes while writing code is not very efficient.

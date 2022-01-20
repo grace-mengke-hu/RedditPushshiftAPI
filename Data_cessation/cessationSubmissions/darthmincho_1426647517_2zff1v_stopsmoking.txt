@@ -1,0 +1,11 @@
+A small web app that helps me deal with urges - UrgeZapper
+
+It all started as a small prototype. I have polished it a little bit and decided to publish it under the name "UrgeZapper". It has kept me going strong and away from PMO for 67 days now, and it has helped my friends and colleagues deal with quitting smoking.
+
+The site is completely free to use, and I dedicate its creation to the community of Reddit, who, collectively, have changed my life for the better.
+
+Please try UrgeZapper the next time you have an urge -- maybe it will help you!
+
+http://www.urgezapper.com
+
+Please feel free to send me feedback -- I want this tool to be as useful as possible to the /r/stopsmoking community.

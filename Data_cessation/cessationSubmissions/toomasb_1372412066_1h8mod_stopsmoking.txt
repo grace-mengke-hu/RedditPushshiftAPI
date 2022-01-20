@@ -1,0 +1,17 @@
+Hi guys, I made a free stop smoking app for Android, looking for beta testers
+
+I originally made this app for quitting drinking, but then I saw that it could equally be used for quitting smoking. 
+
+The app has a calendar with colour codes so you can visually track how many cigs you've smoked throughout the day, and it also has a smoke-free streak counter. 
+
+There's also 700 quotes from people who are going through the same hell, so you can scroll through these quotes when you're having a craving or something :) Thanks so much to everyone here who contributed their wisdom!
+
+The free version includes all functionality and 100 quotes, and I also made a paid version with all 700 quotes because frankly, I could really use the money... Don't worry, I won't get rich of this anytime soon ;)
+
+I'm also working on an iOS version and on a widget, money-saved counter and short diary/note per day for the Android version.
+
+You can find the app here: 
+https://play.google.com/store/apps/details?id=com.oristats.stopsmoking
+
+I would really appreciate any feedback! Also, if you like it, please rate it in the Play store!
+

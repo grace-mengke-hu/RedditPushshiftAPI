@@ -1,0 +1,13 @@
+Activities to do rather than smoke
+
+So it's just gone midnight here in the UK and, being mildly obsessive-compulsive, I've just had my last cigarette (here's to forever) to see myself to that 00:00 on 2015-04-20. I've been a smoker for the last nine years and knowing I would run out of tobacco tomorrow, I've just thrown the remainder of what I had away (and made it absolutely unrecoverable; I've been terrible for succumbing to cravings the next day in the past and tapping back into my discarded pack).
+
+I tried another quit attempt recently which lasted four days, though my record is 8 months. I have a number of reasons for wanting to quit but a big one is time. I know every cigarette break lasts me about five minutes and that I have just shy of twenty a day during which I'm not often doing anything else - that's an hour and forty minutes every day wasted, more than seven hours a week or thirty a month. Big time waster, even before accounting for those hours it'll knock off my life.
+
+I'm looking for things to do to distract myself, partly to keep myself busy, partly because I intend to keep a video diary as a project to keep myself going (but also because I'm a narcissist with a film degree - see a video from my previous attempt here: https://www.youtube.com/watch?v=opoaWV00KAw - embarrassing, yes, but the process seemed to be really helping me through those first few days), but lastly because I've not been absolutely satisfied with stop smoking apps and I've been working on my own.
+
+As well as tracking activity and showing all of the stats you'd associate with any of these apps, I figured having a randomised list of suggestions might make for a handy tool - an anti-craving suggestion box of sorts: 'fancy a cigarette? try yoga instead'. There are currently eight listed activities. App viewable here: http://ratherthansmoke.herokuapp.com/
+
+So, people of /r/stopsmoking, are there any activities you've tried or that you do to distract yourself from cravings? They can be short activities or big projects, I don't mind. I'm hoping that by making a year long project of my video diary, I can succeed this time, and in compiling activities hopefully help others with suggestions too once this app gets a little more fleshed out.
+
+Lastly let me say I was thrilled to find a subreddit like this - online forums were a huge help for me when I was a teenager and the support I've seen in this community is excellent; you guys rock!

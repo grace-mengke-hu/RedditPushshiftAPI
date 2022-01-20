@@ -1,0 +1,3 @@
+A stop smoking app
+
+So I'm starting to get some really bad urges now and I think an app that tells me what I've saved and how long its been since my last smoke might be in order now. But I can't seem to find an app for android which has minutes as well as days and hours. Any suggestions? 

@@ -1,0 +1,18 @@
+Help me create the best app to help you stop smoking
+
+I quit smoking on June 14th 2012, soon after reading Allen Carr's book, and it was one of my best decisions ever.
+
+I know how hard it is (I had a lot of failed attempts before that), and I want to create a better app to help you stop smoking.
+
+Besides the usual stuff that all apps show (what day of not smoking you're on, how much money saved), here are some features I'm thinking of:
+
+* A way to chat with other people who are on the same day and used to smoke as much as you did.
+
+* Motivational notifications on strategic days, like the 3rd day, when the cravings peak.
+
+* A "panic" button to press when you're about to fail. I'm not sure what it should do... display some quotes from Carr's book, maybe. Or, perhaps, open this sub in their phone's browser?
+
+* A way to post their progress on Facebook, so they their friends can give them the moral support they need.
+
+What do you think of my 4 ideas?
+What other feature would you like to see in such an app?

@@ -1,0 +1,24 @@
+Want to reduce smoking using your smartwatch! Receive points towards Starbucks or Amazon $ as you quit.
+
+We developed a smartwatch app which helps people quit smoking, on Android Wear 2.0 (atm), here is how it works:
+
+
+-> we automatically detect when a person smokes (motion recognition)
+
+-> from here you are suggested a best time to smoke next (we slowly increase their time to their next cigarette)
+
+-> when you wait until after the suggested time you receive points which can be converted into Starbucks or Amazon credits
+
+
+Early results white paper: https://medium.com/@kiwiai/applying-artificial-intelligence-to-help-people-quit-smoking-early-results-a3e5581d560
+
+
+Here are a couple quotes from our initial testers; looking to get 1000 user market study to confirm our results!
+
+"Cue helped me reduce smoking by 50% in the first week. It’s magical” - Ali N.
+
+“After 24 years of smoking, this has been the only thing to help thus far” - Darrell
+
+“This app is great, puts you on the road to quitting easily and effectively. I would share this with anyone needing help to quit for good" - Jasmine
+
+“Cue is a helpful app because it provides positive reinforcement that rewards delaying my next cigarette." - Adrian

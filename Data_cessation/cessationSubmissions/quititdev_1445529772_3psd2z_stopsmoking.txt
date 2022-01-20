@@ -1,0 +1,7 @@
+Hi. I am making an android app to help people stop smoking. Any suggestions are very welcome.
+
+Edit:
+
+I am struggling to quit smoking, tried out a bunch of apps. I didn't see something solid for me. E.g. Most gave me charts and data about once I decided to quit. I couldn't see any app for people like me who caved in. I quit 2-3 times, had to reset the whole thing every time till the time it became pointless.
+
+I am looking to build something which helps you keep going even if you cave in, supporting/motivating for your each fall.

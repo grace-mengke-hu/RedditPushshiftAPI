@@ -1,0 +1,11 @@
+Thousands of cravings killed and this sub made it happen.
+
+Recently, I posted a link to the quit smoking app that this sub inspired me to build during my months of quitting myself. You all gave me amazing feedback so I wanted to post an update to tell you how I implemented it.
+
+We now offer the ability to go into settings and change your Quit Date (for users who quit prior to downloading the app).
+
+We also have added more trophies, facts, and fixed several bugs.
+
+For those of you who may not have caught the previous post. The app, QuitCharge, is 100% free and it's available for Android and iPhone. It has become an instant success and I owe that to my friends in this sub.
+
+I'm always looking for feedback. Please tell me what you think! And keep being awesome!

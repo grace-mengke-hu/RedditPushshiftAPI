@@ -1,0 +1,35 @@
+[Strategy] My simple strategy is working well so far. You might like to try it.
+
+Hi guys
+
+I'll give you my background in the comments, I'll just get straight to the strategy:
+
+**TL;DR:**
+
+It's a budget, with a twist. You have a certain number of cigarettes you're allowed to smoke in a day during the week. On the weekends, you have less cigarettes overall, but your quota is cumulative over Saturday and Sunday; if you smoke less on Saturday, you can smoke more on Sunday, etc.
+
+**Monday - Friday**
+
+In the morning, you transfer the number of cigarettes you're allowed that day from the pack and put them in a case (or an empty packet if you don't have a case). You take the case with you and (if possible) leave the pack somewhere inconvenient, like at home if you're going to be out at work. This serves as a visual reminder of how many you have left for the day - and it really does help when you're thinking of "just having another one before I go back inside".
+
+On this strategy, you are allowed to cave, but it will hurt you the next day. Suppose I'm allowed 6 cigarettes today, but I have a really stressful day and end up smoking 7. Tomorrow, I am only allowed to have 5. It does **not** work the other way. If I only have 5 today, it does not mean I'm allowed 7 tomorrow.
+
+**Saturday and Sunday**
+
+On these days, it *does* work the other way.
+
+I don't know about you, but my smoking behaviours are different on the weekend. I find myself smoking less overall, but more on one day than the other. Suppose you go out with friends on Saturday night and you want to have a few extra smokes. Or maybe you visit a friend on Sundays and want to have a few smokes with him.
+
+On the weekend, you're allowed 3/4 of the number of cigarettes you normally smoke over two days, but you can smoke them whenever you want. If you smoke 6 cigarettes on weekdays, you're allowed 9 over the whole weekend. You can smoke 5 on Saturday and 4 on Sunday. Or you could smoke nothing on Saturday and have all 9 on the Sunday, it's up to you.
+
+**Stepping Down**
+
+I step down, when I find myself semi-reluctantly having my last cigarette at the end of the day for a few days in a row. For example, yesterday I only smoked 5 cigarettes and it was just habit that made me take the last; I didn't really crave it or particularly feel like it. If this happens to me today and tomorrow, I'm changing my quota to 5 per day. 
+
+**Notes**
+
+The visual reminder really helps and motivates you to not smoke as much. Because if you smoke it now, you'll have less for later. Like a lot of people, I tend to smoke more in the morning than the afternoon and I find myself at 11:00 saying "well, I'm two cigarettes in now, if I have one now, I've only got 3 for the rest of the day" and I tend to wait. But as I smoke less in the afternoon anyway, I find myself needing that last one at the end of the day less and less.
+
+I'm sure someone else has probably invented this strategy and written a book on the topic, I've just arrived at it independently. But I've been doing it now for a few weeks and have seen some real results. As I said, I'm down to 6 from 12 and I now have trouble grasping how I was able to fit so many cigarettes in a day.
+
+One thing to note: it is VITALLY important that you transfer your quota into a separate case for the day. Even if the main pack is close-by, it's still important because you can visually see your quota. It's far, far easier to cave if you just carry around a full pack and count how many you've had. Psychologically, if you're using the full pack, you know there's more because you can see them. By transferring, you're creating a false scarcity and your anxiety about running out will prevent you from blowing it. 

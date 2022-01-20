@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RedditPushshiftAPI", "RedditPushshiftAPI\RedditPushshiftAPI.pyproj", "{57A07DE8-00E0-4781-9216-1F67F9FB0AD4}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CheckingMissingData", "CheckingMissingData\CheckingMissingData.pyproj", "{6DE31EB4-F2A9-4E79-9253-0C42181381D6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CFDEA92E-3CCC-4646-939D-BB871DAC3B38}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+		utilFunc.py = utilFunc.py
+	EndProjectSection
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ExtractInfo", "ExtractInfo\ExtractInfo.pyproj", "{97535279-10C6-49CA-AC45-53B89E31652F}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MongoDB", "MongoDB\MongoDB.pyproj", "{BD519E03-0671-4ABE-BE12-0AE5B40EFC9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57A07DE8-00E0-4781-9216-1F67F9FB0AD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57A07DE8-00E0-4781-9216-1F67F9FB0AD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DE31EB4-F2A9-4E79-9253-0C42181381D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DE31EB4-F2A9-4E79-9253-0C42181381D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97535279-10C6-49CA-AC45-53B89E31652F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97535279-10C6-49CA-AC45-53B89E31652F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD519E03-0671-4ABE-BE12-0AE5B40EFC9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD519E03-0671-4ABE-BE12-0AE5B40EFC9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7FA4009-20B6-49EF-954A-3B9202CC0B6F}
+	EndGlobalSection
+EndGlobal

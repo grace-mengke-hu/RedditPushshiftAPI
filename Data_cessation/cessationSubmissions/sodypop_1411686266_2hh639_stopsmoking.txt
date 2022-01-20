@@ -1,0 +1,5 @@
+Badges are currently broken.
+
+~~There's an issue with badges at the moment. It appears an accumulation of deleted accounts has broken flair for everyone. I'm currently cleaning up the database and will hopefully have things sorted out before the end of the night. All of your badge information is saved so there's no need to try to reset or request a new one. Sorry for the trouble folks!~~
+
+**edit: Everyone's badge should be back up!**

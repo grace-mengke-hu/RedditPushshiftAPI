@@ -1,0 +1,7 @@
+I'm making a google spreadsheet script to help with tracking my cutting down and am looking for suggestions
+
+Currently I've set up a form where I can log when I've had a cigarette, and how many I've had since I last logged a smoke.
+
+This goes to a spreadsheet which then bar graphs the average time between smokes.
+
+I'm looking for any suggestions for additional inputs and outputs (am planning to derive other graphs like the derivative of the average time between smoke to indicate trends etc)

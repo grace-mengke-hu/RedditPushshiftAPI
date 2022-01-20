@@ -1,0 +1,19 @@
+To stop smoking, think like a Computer Scientist!
+
+I am a software engineer by trade (studied Computer Science in college) and I also used to be a casual smoker, occasionally buying packs and smoking ~1-5 cigs a day.  Not a major habit, but definitely an addiction, as any time I'd try to quit I'd only last around a week before caving.
+
+A little over a month ago I had an "ah-hah!" moment of clarity, a logical leap, that has allowed me to stop smoking with new conviction.  I applied a core C.S. principle to the dilemma of quitting.  I wanted to share my thinking with you in the hopes that it might inspire some of you like it has me.
+
+In programming, you often encounter problems involving HUGE sets of data.  A list with one million members, or a "graph" (think Facebook friends network) with a billion nodes.  To make working with these data easier, computer science offers a nifty trick.  If you can prove that a certain principle works on a list with 3 members, it's often easy to extend that logic and claim that the same principle will work on a list of length 4.  Put in other words, if you can prove that a principle works on a data set with N members, it's trivial to then claim with certainty that the same principle will work on a set with N+1 members, and N+2 members, etc.
+
+WTF does this have to do with smoking?  Well, every time I've ever bought a pack of cigarettes in my life, I've had an inner monologue that goes something like this:
+
+"I'm just buying a pack, and when I've smoked these 20 cigarettes, I'll probably never buy another.  I'm not a lifetime smoker, I'd just really like to smoke a cigarette right now.  It's just a pack!  Let's call this one my last pack of cigarettes."
+
+This logic allows me to punt the decision to quit smoking until the pack is done, until "next time".  Unfortunately, this same logic will still be just as applicable the next time I'm out of cigarettes and would like to smoke.  And the next time after that, and... N+1.  I will ALWAYS be able to use this logic to convince myself that just one more pack is OK, every day, FOR THE REST OF MY LIFE.
+
+The paradigm shift came when I asked myself a simple question, "Do I want to be a smoker for the rest of my life?".  The answer for me is: absolutely not.  I want to live a long, healthy life, full of athletic pursuits.  I don't want to look all dried up and wizened by age 50.  I have family members who have died from lung cancer.  I do NOT want to be a smoker for the rest of my life.
+
+So now any time I get a craving, I ask myself that question.  Today my answer is "No".  Tomorrow, the answer will be "No", as it will be the day after that, and... N+1.  
+
+If you've gotten this far, I hope that made sense and you enjoyed it.  Good luck!

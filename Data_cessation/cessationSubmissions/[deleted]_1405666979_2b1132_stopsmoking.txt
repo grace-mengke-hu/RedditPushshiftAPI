@@ -1,0 +1,7 @@
+You should stop now
+
+You will keep smoking forever. Proof: 
+
+You had your last cigarette. Next time you will delude yourself by saying "just one more and then I'll stop". Base case was your last cigarette. Apply induction on new cigarette and I have proven that you'll never stop smoking. 
+
+The only way to stop this stupid chain is to realize there's no "just one more". One cigarette at beginning of day means 15 at the end of it. Stop fooling yourself. Stop smoking now! 

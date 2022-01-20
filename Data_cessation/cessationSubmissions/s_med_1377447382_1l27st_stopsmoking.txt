@@ -1,0 +1,5 @@
+Youtube video ad-overlay is driving me mad!
+
+So, a few weeks ago I googled 'Allen Carr's Easyway' because I was reading the book and I was curious if the courses are available in my country.
+
+Ever since then, I always get Easyway-ads on Youtube. I do have ABP installed but as those of you who use it know, it doesn't block the small overlay that pops up on the bottom of the video. So basically, everytime I watch a Youtube video I'm reminded of smoking and while it doesn't make me get urges it's starting to piss me off! Is there any way I can make this stupid overlay disappear or at least display a different ad?

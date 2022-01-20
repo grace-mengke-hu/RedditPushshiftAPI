@@ -1,0 +1,13 @@
+iPhone Beta testers needed for (Pro) version of Smoke Free with new chatbot quit smoking coach
+
+Hi,
+
+I'm the co-creator of the Smoke Free app, and we have been working on a chatbot quit smoking coach over the last few months. We have an early version ready, and we'd love for you to try it. We're hopeful it will improve the efficacy of the app.  
+
+
+If you enter your email below we will distribute with Test Flight.  
+[https://smokefree-testflight.herokuapp.com/](https://smokefree-testflight.herokuapp.com/)
+
+*Processing img c7airyuteb511...*
+
+The Android version is coming along also, and the coach will launch at the same time on both platforms.

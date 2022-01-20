@@ -1,0 +1,18 @@
+Would you use this tool to help you manage your COPD?
+
+To those that have any experience with anyone who has COPD, would you use a free mobile application that provided you with specific questions to coordinate your care plan between all of your doctors? (Background: some doctors are not good at communicating with all of your physicians and as a result, your health suffers because you get different prescribed different care plans that don't always jive. We're trying to find a way to make the patient the coordinator of their care).
+
+So image this: you log into the app and your home page is a timeline of all of your past appointments. You select "create new appointment" where you confirm which physician you are seeing at that moment. Then based on that physician's specialty, the app provides you with questions and the ability to take notes on those questions so that you can bring that information to your next appointment (regardless of the doctor). 
+
+You have the option to take notes by voice recording, typing in text, taking a picture, and for some sections, you just have to select the answer from a list.
+
+Here are the questions:
+Doctor, what is your assessment of me? (free text/voice recording)
+Doctor, what is your plan for me:
+- What lifestyle changes to I have to make? (list selection)
+- What tests do I have to take? (list selection)
+- What medications do I have to take? (list selection)
+
+After you get your test results, you can go back into your timeline to add them in there.
+
+Do you think that keeping this record will be helpful for you as a patient and helpful for your next appointment? Do you think you'd be able to take notes in the ways suggested above? Would you use a tool like this? Do you think it would help you to better understand your condition?

@@ -1,0 +1,24 @@
+Beta testers wanted for Android version of Smoke Free
+
+It's taken a while but we've finally got a version of [Smoke Free](http://smokefreeapp.com/) available for Android. Well, when I say available I mean available for testing. We think everything works but can't be sure until people have tried to break it.
+
+If you'd like to give this a go:
+
+   1. Using the same email address as you use on the Play Store, join the
+   G+ Smoke Free for Android group here:
+   https://plus.google.com/u/0/communities/113877536999575616001
+   2. Once you've joined the group click here to become a tester:
+   https://play.google.com/apps/testing/com.portablepixels.smokefree
+   3. You can follow the link on that page to download or you can click this link:
+   https://play.google.com/store/apps/details?id=com.portablepixels.smokefree&ah=0DMh-12l3i8fM-0FeI6mmWUdzbI
+
+I'd be really grateful if you could use the app and tell me if doesn't work in any way, or just let me know what you think.
+
+I don't have much to offer in return, other than to say you'll be saving millions of lives. Okay, perhaps not millions but if you tell us how we can make the app better you will be helping future quitters. Plus, the first person to tell us about a bug will have their name immortalised within the app. 
+
+So you get fame by helping others. Win win or what.
+
+https://plus.google.com/u/0/communities/113877536999575616001
+
+
+EDIT: I've just been reminded that it can take a couple of hours to see the test version on Google Play once you've registered as a tester. The link does work, we just need to wait for Google to update their databases with your details.

@@ -1,0 +1,2 @@
+The Vapemate app is a non-smoking timer and savings calculator showing you how long it has been since you started vaping/quit smoking and how much money you save (or not!) when you switch.
+

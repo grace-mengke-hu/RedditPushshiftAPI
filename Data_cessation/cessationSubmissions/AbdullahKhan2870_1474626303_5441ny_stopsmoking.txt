@@ -1,0 +1,10 @@
+Quit Smoking psuedo Code. My steps
+
+1. Gather Information
+2. Plan and set a date
+3. Try your best
+4. If Failed
+        Find Faults and make a better plan
+        Try Again (Repeat)
+    Else Success
+        Party ;)

@@ -1,0 +1,19 @@
+Does an Android app with these features exist that could help me quit?
+
+I would love to have an app in which I could log things related to my smoking behavior.  If it's something I can make an ad-hoc solution out of, that's fine ... like, organize some tables and create a form that i enter info into.
+
+The use case I'm imagining is,
+
+a) when I smoke a cigarette:
+- log the time
+- rate my mood (1-3, 1-5, frowny/neutral/smiley, etc.)
+- rate my perceived 'need' to smoke (?, need, NEED)
+- ask me, even, if I could put it off for an hour? 30 minutes? 15 minutes?
+
+b) when i purchase
+- the brand
+- the price
+
+use the combo of b and a to keep track of how much money i could be saving on a per-cigarette basis, perhaps.
+
+Does such a thing exist?

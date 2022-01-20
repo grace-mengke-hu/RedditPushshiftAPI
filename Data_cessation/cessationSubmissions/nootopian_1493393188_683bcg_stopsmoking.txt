@@ -1,0 +1,5 @@
+Looking for a few iPhone beta testers for new update to Smoke Free (lots of new badges)
+
+Hi, we're looking for a few iPhone users to beta test our new update which has a heap of new badges including some new time smoke free, new health, money saved, missions completed, diary entries and some special ones. All you need to do is install it and use it. Your help is much appreciated.
+http://smokefreebeta.herokuapp.com/
+

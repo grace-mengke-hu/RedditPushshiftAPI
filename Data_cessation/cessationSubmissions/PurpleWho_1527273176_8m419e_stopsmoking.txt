@@ -1,0 +1,25 @@
+Anyone Interested In An App That Lets People Bet On Getting Things Done?
+
+The basic idea:
+
+You bet that you will do something by a certain date.
+
+You share the bet with your friends.
+
+They can either bet that you will or they can bet against you.
+
+If you deliver proof of completion by the deadline you keep all the money bet against you.
+
+If more people bet that you would get it done then you all split the pot, or vice-versa if you lose.
+
+I thought this might be useful when you need to hard commit to doing something in a group. For example, if you are promise a report done by the end of the week then you can bet that you will. Your co-workers can bet against you if they genuinely don't think you can be relied on.
+
+Betting against you is actually a form of motivation because now there are stakes to proving them wrong.
+
+You can also use it for personal goals like losing weight or you can just use it for fun challenges between friends.
+
+If I build it, would you use it?
+
+If not please tell me why.
+
+If you are interested, I put together a mailing list where I will update you once an MVP is built https://betbug.org/

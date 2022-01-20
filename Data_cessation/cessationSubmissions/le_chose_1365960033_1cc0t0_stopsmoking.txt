@@ -1,0 +1,61 @@
+I was jealous of the iphone application to quit smoking... (for linux users)
+
+decide to make my own, code quite ugly because written in bash, (my programming skillz sucks)
+
+you can adjust the values according to how much you smoke and how much cost a pack in your area
+
+to do so, just change the value after the multiplication sign(*) on the lines :
+
+
+echo "you did not smoke $(echo $HOLDINGFOR/60/60*1.5 | bc) nasty cigarettes"
+echo "you saved $(echo $HOLDINGFOR/60/60/24*7.5 | bc) \$, meh, it is a few bucks"
+
+
+wish me luck, trying cold turkey once again...
+
+cigarettes are the worst thing in my life.
+
+
+
+
+
+\#!/bin/bash
+VALUE=345600
+CIGGSNOTSMOKED=0
+MONEYSAVED=0
+HOLDINGFOR=0
+
+while [[ $VALUE -le 345600 ]];
+
+do
+
+VALUE=$(($VALUE-1))
+HOLDINGFOR=$(($HOLDINGFOR+1))
+DAYS=$(($VALUE/60/60/24))
+HOURS=$(($VALUE/60/60-DAYS*24))
+MINUTES=$(($VALUE/60-DAYS*24*60-$HOURS*60))
+SECONDS=$(($VALUE-$DAYS*24*60*60-$HOURS*60*60-$MINUTES*60))
+
+HOLDINGFORDAYS=$(($HOLDINGFOR/60/60/24))
+HOLDINGFORHOURS=$(($HOLDINGFOR/60/60-$HOLDINGFORDAYS*24))
+HOLDINGFORMINUTES=$(($HOLDINGFOR/60-$HOLDINGFORDAYS*24*60-HOLDINGFORHOURS*60))
+HOLDINGFORSECONDS=$(($HOLDINGFOR-$HOLDINGFORDAYS*24*60*60-HOLDINGFORHOURS*60*60-$HOLDINGFORMINUTES*60))
+
+echo "time left before total withdrawal $DAYS days $HOURS hours $MINUTES minutes and $SECONDS seconds , hold on!"
+
+echo "you did not smoke for $HOLDINGFORDAYS days $HOLDINGFORHOURS hours $HOLDINGFORMINUTES minutes and $HOLDINGFORSECONDS seconds, good!"
+
+echo "you did not smoke $(echo $HOLDINGFOR/60/60*1.5 | bc) nasty cigarettes"
+echo "you saved $(echo $HOLDINGFOR/60/60/24*7.5 | bc) \$, meh, it is a few bucks"
+
+sleep 1 
+
+clear
+
+done
+
+exit 0
+
+
+
+

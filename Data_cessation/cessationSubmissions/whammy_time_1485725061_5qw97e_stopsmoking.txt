@@ -1,0 +1,9 @@
+A year of pack-a-day smoking, financially
+
+[tl;dr](http://i.imgur.com/4MD56Fc.png)
+
+I quit on 2016-01-01 and was catching up on finances and got the idea to look more in depth at my cigarette purchases in 2016. I use [ledger](http://ledger-cli.org/), a text-based finance program, which is convenient for analyzing/plotting using [R](https://www.r-project.org/). I created a plot of the cumulative spending through almost a full year, with a "restart" for 2017-01-01 through today.
+
+Since this was a register of purchases by date, the number of lines indicates individual transactions (how many trips to the gas station), and from the total and min/max cost of a pack ($7.47 on sale and $8.22 normal price) I could figure out roughly how many packs I purchased, along with how many cigarettes that amounted to.
+
+Here's the [PLOT](http://i.imgur.com/4MD56Fc.png), and here's to a 2017 of freedom!

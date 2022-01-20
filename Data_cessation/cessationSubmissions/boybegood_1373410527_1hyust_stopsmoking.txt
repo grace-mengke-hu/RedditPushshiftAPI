@@ -1,0 +1,13 @@
+I am developing an iPhone application to stay motivated. Screenshot inside, I am looking for your suggestions!
+
+Hey all!
+
+I am the developer of [battlebench.com](http://battlebench.com), an application that allows you to keep track of your personal goals and stay motivated by providing you with statistics on your battle, including a badge reward system.
+
+After the recent release of a first version of the browser app (which went public a good month ago at [battlebench.com](http://www.battlebench.com)), I started development of an iOS application, since I figured that most people would feel motivated by being able to easily monitor their progress on the go, apart from only using the browser app. The iOS app is still in Beta and has not been released in the App Store yet, however I would really appreciate your feedback, by letting you answer the following question:
+
+**If you could have 1 feature available in the battlebench iOS app, what would it be?**
+
+Your suggestion could go from a social aspect (I am thinking of implementing a "buddy" system where you motivate each other), other statistics, to posting your progress on Facebook - anything that you would like most, you can request it here and I will make sure I take your feedback into account during the next days of development!
+
+Thanks in advance for the feedback! A teaser screenshot of one of the views under development can be found here - http://imgur.com/GROpkTM
