@@ -1,4 +1,4 @@
-# Data Collection Package With Pushshift.io API
+# Data Collection Package With Reddit Pushshift.io API
 
 ## RedditPushshiftAPI
 This package is for all the crawlers using pushshift.io API
