@@ -1,4 +1,5 @@
 # Data Collection Package With Reddit Pushshift.io API
+## Publications
 This package is for collecting Reddit dataset for the following publications:
 This package achieves the Reddit dataset collection sections for the following publications:
 1. Mengke Hu and Ryzen Benson and Annie T. Chen and Shu-Hong Zhu and MikeConway, *"Determining the prevalence of cannabis, tobacco, and vaping device mentions in online communities using natural language processing"*, Drug and Alcohol Dependence, 2021, DOI: 10.1016/j.drugalcdep.2021.109016, url: https://www.sciencedirect.com/science/article/abs/pii/S0376871621005111?via=ihub  
